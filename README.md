@@ -1,12 +1,60 @@
-# React + Vite
+# Knotfest Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About This Project
 
-Currently, two official plugins are available:
+This repository contains the frontend application for the Knotfest event. It's built to provide users with a seamless experience for Browse event information, artist lineups, schedules, ticket purchasing options, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The primary goal of this frontend is to be user-friendly, responsive across various devices, and visually appealing, reflecting the energy and brand of Knotfest.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Event Information**: Details about Knotfest dates, locations, and venues.
+* **Artist Lineup**: Comprehensive list of bands and artists performing.
+* **Schedule**: Day-by-day breakdown of performances and stages.
+* **Ticket Information**: Instructions for purchasing event tickets.
+* **News/Updates**: Latest announcements and news related to Knotfest.
+* **Responsive Design**: Optimized for desktop, tablet, and mobile viewing.
+
+## Technologies Used
+
+* **[Main Framework]**: React
+* **[Styling]**: CSS Modules, Styled Components
+* **[Routing]**: React Router
+* **[HTTP Requests]**: Axios, Fetch API
+* **[Build Tool]**: Vite
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+
+* [Node.js](https://nodejs.org/) (LTS version recommended)
+* [npm](https://www.npmjs.com/) (usually comes with Node.js)
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/knotfestival/knotfest-frontend.git](https://github.com/knotfestival/knotfest-frontend.git)
+    ```
+    *(Make sure this is your correct repository URL)*
+
+2.  **Navigate into the project directory:**
+    ```bash
+    cd knotfest-frontend
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+### Running the Development Server
+
+To run the application in development mode:
+
+```bash
+npm start
