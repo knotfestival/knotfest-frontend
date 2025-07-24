@@ -1,0 +1,34 @@
+{
+  "artists": [
+    {
+      "id": 0,
+	  "name": "Korn",
+      "performance_date": "26-06-2025",
+      "performance_hour": "20:30",
+      "image_path": "korn.jpg",
+      "video_url": "https://youtu.be/pr3x7tS__dE?si=ImOGoRPPgfsk73gh",
+      "short_bio": "Korn (stylized as KoЯn) is an American nu metal band from Bakersfield, California, originally formed in 1993 by James \"Munky\" Shaffer, Reginald \"Fieldy\" Arvizu and David Silveria, who were members of the band L.A.P.D. Theircurrent lineup features Shaffer (guitar), Arvizu (bass), Brian \"Head\" Welch (guitar), Jonathan Davis (vocals), andRay Luzier (drums), the last of whom replaced Silveria in 2007. The band is notable for pioneering andpopularizing the nu metal genre.",
+	  "music_style": "Nu Metal"
+    },
+    {
+	  "id": 1,
+	  "name": "Nothing More",
+      "performance_date": "27-06-2025",
+      "performance_hour": "21:00",
+      "image_path": "nothingmore.jpg",
+      "video_url": "https://youtu.be/fpgcT_py5g8?si=d1fuv23KHGyiB5_l",
+      "short_bio": "Nothing More is an American rock band from San Antonio, Texas. Formed in 2003, the band spent much of the 2000srecording independent albums and struggling to maintain a steady lineup or attract record label interest. Towardsthe end of the decade, the band's long-time drummer, Jonny Hawkins, decided to switch to being the band's frontmanand lead vocalist, stabilizing the band's core lineup along with other long-time members Mark Vollelunga (guitar)and Daniel Oliver (bass).",
+	  "music_style": "Progressive Metal"
+    },
+    {
+	  "id": 2,
+      "name": "Linkin Park",
+      "performance_date": "28-06-2025",
+      "performance_hour": "19:50",
+      "image_path": "linkinpark.jpg",
+      "video_url": "https://youtu.be/kivUsDGWojU?si=Ek0eWceJ9ueIPGg7",
+      "short_bio": "Linkin Park is an American rock band formed in Agoura Hills, California, in 1996. The band's current lineup\n      consists of vocalist/rhythm guitarist/keyboardist Mike Shinoda, lead guitarist Brad Delson, DJ/turntablist Joe\n      Hahn, bassist Dave Farrell, vocalist Emily Armstrong, and drummer Colin Brittain. The lineup for the band's first\n      seven studio albums included lead vocalist Chester Bennington and drummer Rob Bourdon until Bennington's suicide\n      in July 2017, which caused the band to enter an indefinite hiatus. In September 2024, Linkin Park's reformation\n      was announced along with the addition of Armstrong and Brittain.",
+	  "music_style": "Alternative Rock"
+    }
+  ]
+}
